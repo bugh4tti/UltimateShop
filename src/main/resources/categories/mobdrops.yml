@@ -1,0 +1,32 @@
+name: "Dropeos de mobs"
+title: "&8Mercado | Mobdrops"
+rows: 6
+items:
+  rotten_flesh: {material: ROTTEN_FLESH, slot: 10, buy: 100, sell: 4}
+  gunpowder: {material: GUNPOWDER, slot: 11, buy: 300, sell: 15}
+  bone: {material: BONE, slot: 12, buy: 100, sell: 5}
+  string: {material: STRING, slot: 13, buy: 80, sell: 4}
+  spider_eye: {material: SPIDER_EYE, slot: 14, buy: 150, sell: 8}
+  ender_pearl: {material: ENDER_PEARL, slot: 15, buy: 500, sell: 25}
+  blaze_rod: {material: BLAZE_ROD, slot: 16, buy: 400, sell: 20}
+  slime_ball: {material: SLIME_BALL, slot: 19, buy: 150, sell: 8}
+  ghast_tear: {material: GHAST_TEAR, slot: 20, buy: 1500, sell: 75}
+  leather: {material: LEATHER, slot: 21, buy: 120, sell: 6}
+  rabbit_hide: {material: RABBIT_HIDE, slot: 22, buy: 80, sell: 4}
+  rabbit_foot: {material: RABBIT_FOOT, slot: 23, buy: 2500, sell: 20}
+  feather: {material: FEATHER, slot: 24, buy: 40, sell: 2}
+  egg: {material: EGG, slot: 25, buy: 30, sell: 2}
+  prismarine_shard: {material: PRISMARINE_SHARD, slot: 28, buy: 200, sell: 10}
+  prismarine_crystals: {material: PRISMARINE_CRYSTALS, slot: 29, buy: 250, sell: 12}
+  nautilus_shell: {material: NAUTILUS_SHELL, slot: 30, buy: 2000, sell: 100}
+  magma_cream: {material: MAGMA_CREAM, slot: 31, buy: 300, sell: 15}
+  phantom_membrane: {material: PHANTOM_MEMBRANE, slot: 32, buy: 600, sell: 30}
+  ink_sac: {material: INK_SAC, slot: 33, buy: 100, sell: 5}
+  glow_ink_sac: {material: GLOW_INK_SAC, slot: 34, buy: 250, sell: 12}
+  beef: {material: BEEF, slot: 37, buy: 100, sell: 5}
+  porkchop: {material: PORKCHOP, slot: 38, buy: 100, sell: 5}
+  chicken: {material: CHICKEN, slot: 39, buy: 80, sell: 4}
+  mutton: {material: MUTTON, slot: 40, buy: 80, sell: 4}
+  cod: {material: COD, slot: 41, buy: 60, sell: 3}
+  salmon: {material: SALMON, slot: 42, buy: 70, sell: 4}
+  shulker_shell: {material: SHULKER_SHELL, slot: 43, buy: 5000, sell: 250}
