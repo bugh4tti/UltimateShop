@@ -1,0 +1,32 @@
+name: "Minerales"
+title: "&8Mercado | Minerales"
+rows: 6
+items:
+  coal: {material: COAL, slot: 10, buy: 40, sell: 4}
+  raw_iron: {material: RAW_IRON, slot: 11, buy: 60, sell: 6}
+  raw_copper: {material: RAW_COPPER, slot: 12, buy: 30, sell: 3}
+  raw_gold: {material: RAW_GOLD, slot: 13, buy: 100, sell: 10}
+  iron_ingot: {material: IRON_INGOT, slot: 14, buy: 80, sell: 8}
+  copper_ingot: {material: COPPER_INGOT, slot: 15, buy: 40, sell: 4}
+  gold_ingot: {material: GOLD_INGOT, slot: 16, buy: 130, sell: 13}
+  lapis_lazuli: {material: LAPIS_LAZULI, slot: 19, buy: 50, sell: 5}
+  gold_block: {material: GOLD_BLOCK, slot: 20, buy: 1170, sell: 117}
+  diamond: {material: DIAMOND, slot: 21, buy: 500, sell: 50}
+  emerald: {material: EMERALD, slot: 22, buy: 400, sell: 40}
+  quartz: {material: QUARTZ, slot: 23, buy: 40, sell: 4}
+  amethyst_shard: {material: AMETHYST_SHARD, slot: 24, buy: 60, sell: 6}
+  netherite_scrap: {material: NETHERITE_SCRAP, slot: 25, buy: 3000, sell: 300}
+  netherite_ingot: {material: NETHERITE_INGOT, slot: 28, buy: 15000, sell: 1500}
+  coal_ore: {material: COAL_ORE, slot: 29, buy: 50, sell: 5}
+  iron_ore: {material: IRON_ORE, slot: 30, buy: 70, sell: 7}
+  copper_ore: {material: COPPER_ORE, slot: 31, buy: 40, sell: 4}
+  gold_ore: {material: GOLD_ORE, slot: 32, buy: 110, sell: 11}
+  lapis_ore: {material: LAPIS_ORE, slot: 33, buy: 60, sell: 6}
+  redstone_ore: {material: REDSTONE_ORE, slot: 34, buy: 60, sell: 6}
+  diamond_ore: {material: DIAMOND_ORE, slot: 37, buy: 550, sell: 55}
+  emerald_ore: {material: EMERALD_ORE, slot: 38, buy: 450, sell: 45}
+  nether_quartz_ore: {material: NETHER_QUARTZ_ORE, slot: 39, buy: 50, sell: 5}
+  ancient_debris: {material: ANCIENT_DEBRIS, slot: 40, buy: 3500, sell: 350}
+  coal_block: {material: COAL_BLOCK, slot: 41, buy: 360, sell: 36}
+  iron_block: {material: IRON_BLOCK, slot: 42, buy: 720, sell: 72}
+  diamond_block: {material: DIAMOND_BLOCK, slot: 43, buy: 4500, sell: 450}
