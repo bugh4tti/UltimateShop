@@ -1,0 +1,32 @@
+name: "Herramientas"
+title: "&8Mercado | Herramientas"
+rows: 6
+items:
+  iron_sword: {material: IRON_SWORD, slot: 10, buy: 400, sell: 20}
+  iron_pickaxe: {material: IRON_PICKAXE, slot: 11, buy: 500, sell: 25}
+  iron_axe: {material: IRON_AXE, slot: 12, buy: 500, sell: 25}
+  iron_shovel: {material: IRON_SHOVEL, slot: 13, buy: 250, sell: 12}
+  iron_hoe: {material: IRON_HOE, slot: 14, buy: 350, sell: 17}
+  diamond_sword: {material: DIAMOND_SWORD, slot: 15, buy: 1500, sell: 75}
+  diamond_pickaxe: {material: DIAMOND_PICKAXE, slot: 16, buy: 2000, sell: 100}
+  diamond_axe: {material: DIAMOND_AXE, slot: 19, buy: 2000, sell: 100}
+  diamond_shovel: {material: DIAMOND_SHOVEL, slot: 20, buy: 1000, sell: 50}
+  diamond_hoe: {material: DIAMOND_HOE, slot: 21, buy: 1500, sell: 75}
+  bow: {material: BOW, slot: 22, buy: 200, sell: 10}
+  crossbow: {material: CROSSBOW, slot: 23, buy: 350, sell: 17}
+  arrow: {material: ARROW, slot: 24, buy: 10, sell: 1}
+  shield: {material: SHIELD, slot: 25, buy: 300, sell: 15}
+  fishing_rod: {material: FISHING_ROD, slot: 28, buy: 120, sell: 6}
+  shears: {material: SHEARS, slot: 29, buy: 200, sell: 10}
+  flint_and_steel: {material: FLINT_AND_STEEL, slot: 30, buy: 150, sell: 7}
+  bucket: {material: BUCKET, slot: 31, buy: 250, sell: 12}
+  water_bucket: {material: WATER_BUCKET, slot: 32, buy: 280, sell: 14}
+  lava_bucket: {material: LAVA_BUCKET, slot: 33, buy: 400, sell: 20}
+  compass: {material: COMPASS, slot: 34, buy: 350, sell: 17}
+  clock: {material: CLOCK, slot: 37, buy: 600, sell: 30}
+  name_tag: {material: NAME_TAG, slot: 38, buy: 500, sell: 25}
+  saddle: {material: SADDLE, slot: 39, buy: 800, sell: 40}
+  iron_helmet: {material: IRON_HELMET, slot: 40, buy: 450, sell: 22}
+  iron_chestplate: {material: IRON_CHESTPLATE, slot: 41, buy: 700, sell: 35}
+  iron_leggings: {material: IRON_LEGGINGS, slot: 42, buy: 600, sell: 30}
+  iron_boots: {material: IRON_BOOTS, slot: 43, buy: 350, sell: 17}
