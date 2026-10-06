@@ -1,0 +1,27 @@
+name: UltimateShop
+version: 1.0.0
+main: com.ultimateshop.UltimateShop
+api-version: '1.20'
+author: Bughatti
+description: Tienda del servidor con menús, hex y variables.
+depend: [Vault]
+softdepend: [PlaceholderAPI]
+
+commands:
+  shop:
+    description: Abre la tienda del servidor
+    usage: /shop [categoría]
+    permission: ultimateshop.use
+  ultimateshop:
+    description: Administración de UltimateShop
+    usage: /ultimateshop <help|reload|open>
+    aliases: [us, ushop]
+    permission: ultimateshop.admin
+
+permissions:
+  ultimateshop.use:
+    description: Permite usar /shop
+    default: true
+  ultimateshop.admin:
+    description: Permite administrar UltimateShop
+    default: op
