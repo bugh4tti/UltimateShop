@@ -1,0 +1,32 @@
+name: "Bloques"
+title: "&8Mercado | Bloques"
+rows: 6
+items:
+  stone: {material: STONE, slot: 10, buy: 10, sell: 1}
+  cobblestone: {material: COBBLESTONE, slot: 11, buy: 8, sell: 1}
+  deepslate: {material: DEEPSLATE, slot: 12, buy: 12, sell: 1}
+  cobbled_deepslate: {material: COBBLED_DEEPSLATE, slot: 13, buy: 10, sell: 1}
+  granite: {material: GRANITE, slot: 14, buy: 10, sell: 1}
+  diorite: {material: DIORITE, slot: 15, buy: 10, sell: 1}
+  andesite: {material: ANDESITE, slot: 16, buy: 10, sell: 1}
+  dirt: {material: DIRT, slot: 19, buy: 5, sell: 1}
+  grass_block: {material: GRASS_BLOCK, slot: 20, buy: 15, sell: 2}
+  sand: {material: SAND, slot: 21, buy: 8, sell: 1}
+  red_sand: {material: RED_SAND, slot: 22, buy: 10, sell: 1}
+  gravel: {material: GRAVEL, slot: 23, buy: 8, sell: 1}
+  clay: {material: CLAY, slot: 24, buy: 20, sell: 2}
+  sandstone: {material: SANDSTONE, slot: 25, buy: 12, sell: 1}
+  netherrack: {material: NETHERRACK, slot: 28, buy: 6, sell: 1}
+  soul_sand: {material: SOUL_SAND, slot: 29, buy: 15, sell: 2}
+  basalt: {material: BASALT, slot: 30, buy: 12, sell: 1}
+  blackstone: {material: BLACKSTONE, slot: 31, buy: 12, sell: 1}
+  end_stone: {material: END_STONE, slot: 32, buy: 25, sell: 3}
+  obsidian: {material: OBSIDIAN, slot: 33, buy: 150, sell: 15}
+  glass: {material: GLASS, slot: 34, buy: 12, sell: 2}
+  bricks: {material: BRICKS, slot: 37, buy: 30, sell: 3}
+  stone_bricks: {material: STONE_BRICKS, slot: 38, buy: 14, sell: 2}
+  terracotta: {material: TERRACOTTA, slot: 39, buy: 25, sell: 3}
+  prismarine: {material: PRISMARINE, slot: 40, buy: 40, sell: 4}
+  quartz_block: {material: QUARTZ_BLOCK, slot: 41, buy: 80, sell: 8}
+  smooth_stone: {material: SMOOTH_STONE, slot: 42, buy: 14, sell: 2}
+  moss_block: {material: MOSS_BLOCK, slot: 43, buy: 30, sell: 3}
