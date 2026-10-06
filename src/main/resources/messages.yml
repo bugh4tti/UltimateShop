@@ -1,0 +1,22 @@
+prefix: "&#FFD700&lMercado &8» &7"
+
+player-only: "&cSolo los jugadores pueden usar este comando."
+no-permission: "&cNo tienes permiso para hacer eso."
+reloaded: "&aUltimateShop recargado correctamente."
+unknown-category: "&cLa categoría &f%category% &cno existe."
+player-not-found: "&cJugador no encontrado."
+not-buyable: "&cEste ítem no se puede comprar."
+not-sellable: "&cEste ítem no se puede vender."
+no-money: "&cNo tienes suficiente dinero. Necesitas &f%price%&c."
+no-space: "&cNo tienes espacio suficiente en tu inventario."
+no-items: "&cNo tienes &f%item% &cpara vender."
+bought: "&aCompraste &f%amount%x %item% &apor &f%price%&a. Saldo: &f%balance%"
+sold: "&aVendiste &f%amount%x %item% &apor &f%price%&a. Saldo: &f%balance%"
+economy-error: "&cOcurrió un error con la economía."
+
+help:
+  - "&#FFD700&lUltimateShop &8- &7Ayuda"
+  - "&e/shop [categoría] &8- &7Abre la tienda"
+  - "&e/ultimateshop reload &8- &7Recarga los archivos"
+  - "&e/ultimateshop open <jugador> [categoría] &8- &7Abre la tienda a otro jugador"
+  - "&7Alias: &f/us &7y &f/ushop"
