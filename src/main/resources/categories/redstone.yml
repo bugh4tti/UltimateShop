@@ -1,0 +1,32 @@
+name: "Redstone"
+title: "&8Mercado | Redstone"
+rows: 6
+items:
+  redstone: {material: REDSTONE, slot: 10, buy: 30, sell: 3}
+  redstone_torch: {material: REDSTONE_TORCH, slot: 11, buy: 35, sell: 3}
+  repeater: {material: REPEATER, slot: 12, buy: 80, sell: 8}
+  comparator: {material: COMPARATOR, slot: 13, buy: 150, sell: 15}
+  redstone_lamp: {material: REDSTONE_LAMP, slot: 14, buy: 120, sell: 12}
+  redstone_block: {material: REDSTONE_BLOCK, slot: 15, buy: 270, sell: 27}
+  lever: {material: LEVER, slot: 16, buy: 15, sell: 2}
+  stone_button: {material: STONE_BUTTON, slot: 19, buy: 10, sell: 1}
+  oak_button: {material: OAK_BUTTON, slot: 20, buy: 8, sell: 1}
+  stone_pressure_plate: {material: STONE_PRESSURE_PLATE, slot: 21, buy: 20, sell: 2}
+  oak_pressure_plate: {material: OAK_PRESSURE_PLATE, slot: 22, buy: 15, sell: 2}
+  tripwire_hook: {material: TRIPWIRE_HOOK, slot: 23, buy: 30, sell: 3}
+  target: {material: TARGET, slot: 24, buy: 200, sell: 20}
+  daylight_detector: {material: DAYLIGHT_DETECTOR, slot: 25, buy: 250, sell: 25}
+  observer: {material: OBSERVER, slot: 28, buy: 180, sell: 18}
+  piston: {material: PISTON, slot: 29, buy: 150, sell: 15}
+  sticky_piston: {material: STICKY_PISTON, slot: 30, buy: 250, sell: 25}
+  dispenser: {material: DISPENSER, slot: 31, buy: 120, sell: 12}
+  dropper: {material: DROPPER, slot: 32, buy: 100, sell: 10}
+  hopper: {material: HOPPER, slot: 33, buy: 300, sell: 30}
+  slime_block: {material: SLIME_BLOCK, slot: 34, buy: 400, sell: 40}
+  honey_block: {material: HONEY_BLOCK, slot: 37, buy: 300, sell: 30}
+  note_block: {material: NOTE_BLOCK, slot: 38, buy: 80, sell: 8}
+  trapped_chest: {material: TRAPPED_CHEST, slot: 39, buy: 90, sell: 9}
+  rail: {material: RAIL, slot: 40, buy: 25, sell: 2}
+  powered_rail: {material: POWERED_RAIL, slot: 41, buy: 60, sell: 6}
+  detector_rail: {material: DETECTOR_RAIL, slot: 42, buy: 50, sell: 5}
+  activator_rail: {material: ACTIVATOR_RAIL, slot: 43, buy: 50, sell: 5}
