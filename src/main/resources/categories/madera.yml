@@ -1,0 +1,34 @@
+# slots libres: 10-16, 19-25, 28-34, 37-43 (por página)
+# buy/sell = precio por unidad (-1 = no disponible)
+name: "Madera"
+title: "&8Mercado | Madera"
+rows: 6
+items:
+  oak_log: {material: OAK_LOG, slot: 10, buy: 20, sell: 2}
+  spruce_log: {material: SPRUCE_LOG, slot: 11, buy: 20, sell: 2}
+  birch_log: {material: BIRCH_LOG, slot: 12, buy: 20, sell: 2}
+  jungle_log: {material: JUNGLE_LOG, slot: 13, buy: 20, sell: 2}
+  acacia_log: {material: ACACIA_LOG, slot: 14, buy: 20, sell: 2}
+  dark_oak_log: {material: DARK_OAK_LOG, slot: 15, buy: 20, sell: 2}
+  mangrove_log: {material: MANGROVE_LOG, slot: 16, buy: 20, sell: 2}
+  cherry_log: {material: CHERRY_LOG, slot: 19, buy: 20, sell: 2}
+  crimson_stem: {material: CRIMSON_STEM, slot: 20, buy: 25, sell: 3}
+  warped_stem: {material: WARPED_STEM, slot: 21, buy: 25, sell: 3}
+  oak_planks: {material: OAK_PLANKS, slot: 22, buy: 6, sell: 1}
+  spruce_planks: {material: SPRUCE_PLANKS, slot: 23, buy: 6, sell: 1}
+  birch_planks: {material: BIRCH_PLANKS, slot: 24, buy: 6, sell: 1}
+  jungle_planks: {material: JUNGLE_PLANKS, slot: 25, buy: 6, sell: 1}
+  acacia_planks: {material: ACACIA_PLANKS, slot: 28, buy: 6, sell: 1}
+  dark_oak_planks: {material: DARK_OAK_PLANKS, slot: 29, buy: 6, sell: 1}
+  mangrove_planks: {material: MANGROVE_PLANKS, slot: 30, buy: 6, sell: 1}
+  cherry_planks: {material: CHERRY_PLANKS, slot: 31, buy: 6, sell: 1}
+  bamboo: {material: BAMBOO, slot: 32, buy: 4, sell: 1}
+  stick: {material: STICK, slot: 33, buy: 4, sell: 1}
+  charcoal: {material: CHARCOAL, slot: 34, buy: 30, sell: 4}
+  oak_sapling: {material: OAK_SAPLING, slot: 37, buy: 15, sell: 2}
+  spruce_sapling: {material: SPRUCE_SAPLING, slot: 38, buy: 15, sell: 2}
+  birch_sapling: {material: BIRCH_SAPLING, slot: 39, buy: 15, sell: 2}
+  jungle_sapling: {material: JUNGLE_SAPLING, slot: 40, buy: 15, sell: 2}
+  acacia_sapling: {material: ACACIA_SAPLING, slot: 41, buy: 15, sell: 2}
+  dark_oak_sapling: {material: DARK_OAK_SAPLING, slot: 42, buy: 15, sell: 2}
+  cherry_sapling: {material: CHERRY_SAPLING, slot: 43, buy: 15, sell: 2}
