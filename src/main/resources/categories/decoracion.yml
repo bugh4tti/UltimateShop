@@ -1,0 +1,32 @@
+name: "Decoración"
+title: "&8Mercado | Decoración"
+rows: 6
+items:
+  white_wool: {material: WHITE_WOOL, slot: 10, buy: 25, sell: 3}
+  red_wool: {material: RED_WOOL, slot: 11, buy: 30, sell: 3}
+  blue_wool: {material: BLUE_WOOL, slot: 12, buy: 30, sell: 3}
+  green_wool: {material: GREEN_WOOL, slot: 13, buy: 30, sell: 3}
+  yellow_wool: {material: YELLOW_WOOL, slot: 14, buy: 30, sell: 3}
+  black_wool: {material: BLACK_WOOL, slot: 15, buy: 30, sell: 3}
+  orange_wool: {material: ORANGE_WOOL, slot: 16, buy: 30, sell: 3}
+  poppy: {material: POPPY, slot: 19, buy: 10, sell: 1}
+  dandelion: {material: DANDELION, slot: 20, buy: 10, sell: 1}
+  blue_orchid: {material: BLUE_ORCHID, slot: 21, buy: 12, sell: 1}
+  allium: {material: ALLIUM, slot: 22, buy: 12, sell: 1}
+  azure_bluet: {material: AZURE_BLUET, slot: 23, buy: 12, sell: 1}
+  lily_of_the_valley: {material: LILY_OF_THE_VALLEY, slot: 24, buy: 12, sell: 1}
+  sunflower: {material: SUNFLOWER, slot: 25, buy: 15, sell: 2}
+  rose_bush: {material: ROSE_BUSH, slot: 28, buy: 15, sell: 2}
+  peony: {material: PEONY, slot: 29, buy: 15, sell: 2}
+  lilac: {material: LILAC, slot: 30, buy: 15, sell: 2}
+  fern: {material: FERN, slot: 31, buy: 8, sell: 1}
+  vine: {material: VINE, slot: 32, buy: 10, sell: 1}
+  lily_pad: {material: LILY_PAD, slot: 33, buy: 12, sell: 1}
+  flower_pot: {material: FLOWER_POT, slot: 34, buy: 25, sell: 3}
+  bookshelf: {material: BOOKSHELF, slot: 37, buy: 120, sell: 12}
+  painting: {material: PAINTING, slot: 38, buy: 40, sell: 4}
+  item_frame: {material: ITEM_FRAME, slot: 39, buy: 40, sell: 4}
+  lantern: {material: LANTERN, slot: 40, buy: 60, sell: 6}
+  torch: {material: TORCH, slot: 41, buy: 8, sell: 1}
+  candle: {material: CANDLE, slot: 42, buy: 25, sell: 3}
+  white_bed: {material: WHITE_BED, slot: 43, buy: 90, sell: 9}
