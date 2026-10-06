@@ -1,0 +1,94 @@
+title: "&8☠ &7Mercado del &lServidor &8☠"
+rows: 6
+
+# category: id del archivo en categories/ (sin .yml)
+# action: close | none
+items:
+  madera:
+    material: OAK_LOG
+    slot: 11
+    category: madera
+    name: "&#C68E4E&lMadera"
+    lore:
+      - "&7Troncos, tablones y más."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  bloques:
+    material: GRASS_BLOCK
+    slot: 12
+    category: bloques
+    name: "&#7BC96F&lBloques"
+    lore:
+      - "&7Piedra, tierra, arena y más."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  granja:
+    material: APPLE
+    slot: 13
+    category: granja
+    name: "&#FF5555&lGranja y Comida"
+    lore:
+      - "&7Cultivos, comida y semillas."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  minerales:
+    material: DIAMOND_ORE
+    slot: 14
+    category: minerales
+    name: "&#55FFFF&lMinerales"
+    lore:
+      - "&7Lingotes, gemas y minerales."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  decoracion:
+    material: BOOKSHELF
+    slot: 15
+    category: decoracion
+    name: "&#FFAA00&lDecoración"
+    lore:
+      - "&7Adornos para tu casa."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  redstone:
+    material: REDSTONE
+    slot: 20
+    category: redstone
+    name: "&#FF3333&lRedstone"
+    lore:
+      - "&7Todo para tus mecanismos."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  herramientas:
+    material: DIAMOND_PICKAXE
+    slot: 21
+    category: herramientas
+    name: "&#55FFFF&lHerramientas"
+    lore:
+      - "&7Picos, hachas, espadas y más."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  utiles:
+    material: ENDER_CHEST
+    slot: 23
+    category: utiles
+    name: "&#AA55FF&lÚtiles"
+    lore:
+      - "&7Objetos prácticos para tu día a día."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  mobdrops:
+    material: BONE
+    slot: 24
+    category: mobdrops
+    name: "&#DDDDDD&lDropeos de mobs"
+    lore:
+      - "&7Todo lo que sueltan los mobs."
+      - ""
+      - "&8▪ &7Click para abrir &f%category%"
+  close:
+    material: IRON_DOOR
+    slot: 49
+    action: close
+    name: "&c&lCerrar"
+    lore:
+      - "&7Click para cerrar el mercado."
