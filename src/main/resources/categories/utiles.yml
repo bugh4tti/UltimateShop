@@ -1,0 +1,32 @@
+name: "Útiles"
+title: "&8Mercado | Útiles"
+rows: 6
+items:
+  experience_bottle: {material: EXPERIENCE_BOTTLE, slot: 10, buy: 400, sell: 40}
+  flint: {material: FLINT, slot: 11, buy: 12, sell: 1}
+  ladder: {material: LADDER, slot: 12, buy: 15, sell: 2}
+  scaffolding: {material: SCAFFOLDING, slot: 13, buy: 20, sell: 2}
+  book: {material: BOOK, slot: 14, buy: 60, sell: 6}
+  paper: {material: PAPER, slot: 15, buy: 15, sell: 2}
+  map: {material: MAP, slot: 16, buy: 150, sell: 15}
+  ender_chest: {material: ENDER_CHEST, slot: 19, buy: 2500, sell: 250}
+  chest: {material: CHEST, slot: 20, buy: 50, sell: 5}
+  barrel: {material: BARREL, slot: 21, buy: 45, sell: 4}
+  furnace: {material: FURNACE, slot: 22, buy: 60, sell: 6}
+  blast_furnace: {material: BLAST_FURNACE, slot: 23, buy: 450, sell: 45}
+  smoker: {material: SMOKER, slot: 24, buy: 150, sell: 15}
+  anvil: {material: ANVIL, slot: 25, buy: 900, sell: 90}
+  enchanting_table: {material: ENCHANTING_TABLE, slot: 28, buy: 1800, sell: 180}
+  brewing_stand: {material: BREWING_STAND, slot: 29, buy: 400, sell: 40}
+  cauldron: {material: CAULDRON, slot: 30, buy: 500, sell: 50}
+  grindstone: {material: GRINDSTONE, slot: 31, buy: 120, sell: 12}
+  smithing_table: {material: SMITHING_TABLE, slot: 32, buy: 150, sell: 15}
+  loom: {material: LOOM, slot: 33, buy: 60, sell: 6}
+  stonecutter: {material: STONECUTTER, slot: 34, buy: 120, sell: 12}
+  crafting_table: {material: CRAFTING_TABLE, slot: 37, buy: 30, sell: 3}
+  composter: {material: COMPOSTER, slot: 38, buy: 40, sell: 4}
+  campfire: {material: CAMPFIRE, slot: 39, buy: 60, sell: 6}
+  bell: {material: BELL, slot: 40, buy: 600, sell: 60}
+  glass_bottle: {material: GLASS_BOTTLE, slot: 41, buy: 15, sell: 2}
+  firework_rocket: {material: FIREWORK_ROCKET, slot: 42, buy: 80, sell: 8}
+  ender_eye: {material: ENDER_EYE, slot: 43, buy: 700, sell: 70}
