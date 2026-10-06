@@ -1,0 +1,74 @@
+# ==================================================
+#  UltimateShop - config.yml
+# ==================================================
+# Variables disponibles en lores y títulos:
+#   %player% %balance% %item% %buy_price% %sell_price%
+#   %stack% %category% %page% %max_pages%
+# Hex: &#RRGGBB  |  PlaceholderAPI: opcional (cualquier %placeholder%)
+
+# Formato de los precios (%s = número). Ej: "$%s"
+price-format: "$%s"
+unavailable: "&cNo disponible"
+filler-material: GRAY_STAINED_GLASS_PANE
+
+sounds:
+  open: block.chest.open
+  click: ui.button.click
+  success: entity.experience_orb.pickup
+  error: entity.villager.no
+
+# Ítem de información (esquina inferior derecha de todos los menús)
+info:
+  material: GOLD_INGOT
+  name: "&#FFD700&lMercado &8· &e&lInformación"
+  lore:
+    - "&7Datos útiles"
+    - ""
+    - "&e&l✉ Preguntas frecuentes:"
+    - " &6⛁ &f¿Cuánto dinero tengo?"
+    - "   &8▪ &7Este es tu actual saldo para"
+    - "   &8▪ &7gastar en el mercado."
+    - "   &8▪ &7En total: &a%balance%"
+    - ""
+    - " &e★ &f¿Cómo puedo ganar dinero?"
+    - "   &8▪ &7¡Gana dinero con estas formas!"
+    - "   &8▪ &7Vendiendo ítems en este mercado"
+    - ""
+    - "&8▪ &7¡Si tienes &adudas &7contacta al staff!"
+    - ""
+    - "&7▶ &f¡Consigue dinero y domina el top &e(★)&f!"
+
+# Lore de cada ítem de las categorías
+# (si el ítem no tiene "name" en su yml, el cliente muestra el nombre original en su idioma)
+item-lore:
+  - "&7Artículo"
+  - ""
+  - "&b✉ &3&lInformación de precios:"
+  - "  &c♨ &fCompra: &c%buy_price%"
+  - "  &a$ &fVenta: &a%sell_price%"
+  - ""
+  - "&a&l✦ Controles de compra y venta:"
+  - "  &8▪ &7Click &cizq. &7para &ccomprar &7esto"
+  - "  &8▪ &7Click &ader. &7para &avender &7esto"
+  - "  &8▪ &7Shift + &cizq. &7para comprar &f%stack%"
+  - "  &8▪ &7Shift + &ader. &7para vender &ftodo"
+  - ""
+  - "&7▶ &f¡Precios módicos siempre &e(★)&f!"
+
+# Botones de navegación (los slots son automáticos, abajo de cada categoría)
+nav:
+  back:
+    material: IRON_DOOR
+    name: "&c&lVolver"
+    lore:
+      - "&7Click para volver al menú principal."
+  previous:
+    material: ARROW
+    name: "&e&l« Página anterior"
+    lore:
+      - "&7Página &f%page%&7/&f%max_pages%"
+  next:
+    material: ARROW
+    name: "&e&lPágina siguiente »"
+    lore:
+      - "&7Página &f%page%&7/&f%max_pages%"
